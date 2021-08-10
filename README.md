@@ -1,5 +1,5 @@
 # DS-Lab
 
-## Editig he file
+## Editing the file
 
 Its a markdown file.
